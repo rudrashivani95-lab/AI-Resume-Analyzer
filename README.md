@@ -14,6 +14,19 @@ A modern resume analysis tool built with Python and Streamlit that helps student
 ## Screenshots
 
 ![Screenshot](Screenshot%20(30).png)
+## Screenshots
+
+![Home Page](Screenshot%20(30).png)
+
+![ATS Analysis](Screenshot%20(31).png)
+
+![Skills Detection](Screenshot%20(32).png)
+
+![Career Recommendations](Screenshot%20(33).png)
+
+![Missing Skills](Screenshot%20(34).png)
+
+![Dashboard](Screenshot%20(35).png)
 
 ## Technology Stack
 
