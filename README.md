@@ -2,6 +2,10 @@
 
 A modern resume analysis tool built with Python and Streamlit that helps students and job seekers optimize their resumes for ATS compatibility and discover suitable career paths.
 
+## Live demo
+
+https://rudrashivani95-lab.github.io/AI-Resume-Analyzer/
+
 ## Features
 
 ✅ **PDF Resume Upload** – Extract text automatically  
