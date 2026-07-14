@@ -4,7 +4,7 @@ A modern resume analysis tool built with Python and Streamlit that helps student
 
 ## Live demo
 
-https://rudrashivani95-lab.github.io/AI-Resume-Analyzer/
+[https://rudrashivani95-lab.github.io/AI-Resume-Analyzer/](https://rudrashivani95-lab.github.io/AI-Resume-Analyzer/)
 
 ## Features
 
